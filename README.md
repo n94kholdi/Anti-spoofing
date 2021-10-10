@@ -1,2 +1,4 @@
 # Anti-spoofing
 We used different techniques to defense into spoofing attacks.
+
+With the ubiquitous use of mobile phones and laptops, security of digital devices have attracted considerable interest in the research community. Recent advances in computer vision and facial recognition has prompted developers to use face and fingerprint-based authentication mechanisms in digital sytems. Face presentaion attack is one such spoofing technique against which many face recognition modules fail considerably. In a face presentaion attack, attacker(s) tries to fool the biometric system by presentaing a face picture (or a video) of the enrolled user with the intention of surpassing authentication. To defend against such attacks, the device needs to learn how to distinguish between attack images from original images.
